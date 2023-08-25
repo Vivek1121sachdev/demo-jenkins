@@ -1,4 +1,4 @@
-FROM node:16 as buld-stage
+FROM node:16 as build-stage
 
 WORKDIR /app
 
